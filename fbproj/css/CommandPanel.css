@@ -1,0 +1,27 @@
+﻿
+
+#commandPanel {
+	border: 0px solid black;
+	width: 100px;
+	height: 400px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	display: none;
+}
+
+.FBbar-commandPanel {
+    float: left;
+    margin: 0px;
+    width: 100px;
+    height: 25px;
+    background-color: #3B5998;
+}
+
+.logButton {
+    border: 0px solid black;
+    float: left;
+    margin: 0px;
+    cursor: pointer;
+	
+}
